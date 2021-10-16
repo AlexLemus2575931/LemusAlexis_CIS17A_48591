@@ -1,0 +1,1 @@
+This is a sample text file to encrypt. This will be encrypted by adding 10 ASCII value to each character. But don't tell anyone that.
